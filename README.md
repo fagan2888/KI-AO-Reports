@@ -13,7 +13,7 @@ Readme
 
 ## Papers 
 ### (1) Macroeconomic Impact of Population Aging in Japan 
-- [Paper]()
+- [Paper](https://github.com/KI-AO-Collaborations/KI-AO-Papers/blob/master/Macroeconomic%20Impact%20of%20Population%20Aging%20in%20Japan.pdf)
 - [Code](https://github.com/KI-AO-Collaborations/OG-Japan)
 
 ### (2) Housing Markets and Optimal Pricing Strategy
