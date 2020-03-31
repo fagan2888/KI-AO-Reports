@@ -1,4 +1,4 @@
-KI-AO-Papers
+Readme
 =========================== 
 
 ## Projects 
@@ -14,8 +14,8 @@ KI-AO-Papers
 ## Papers 
 ### (1) Macroeconomic Impact of Population Aging in Japan 
 - [Paper]()
-- [Code]()
+- [Code](https://github.com/KI-AO-Collaborations/OG-Japan)
 
 ### (2) Housing Markets and Optimal Pricing Strategy
 - [Paper](https://github.com/KI-AO-Collaborations/KI-AO-Papers/blob/master/Housing%20Markets%20and%20Optimal%20Pricing%20Strategy%20Final%20Paper.pdf)
-- [Code]
+- [Code]()
